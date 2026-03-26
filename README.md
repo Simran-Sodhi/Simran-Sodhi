@@ -6,10 +6,10 @@ Currently pursuing an MS in Automated Science at Carnegie Mellon University. Pre
 ---
 
 ### Featured Projects
-- **Puncta CSAT Pipeline** – Microscopy segmentation & quantification
+- **Puncta CSAT Pipeline** – End-to-end microscopy analysis pipeline for studying phase separation  
 - **ASR Project 2025** – Active learning framework for improving cell segmentation in microscopy  
-- **Drug Design Dynamics** – Molecular simulation & analysis pipeline  
-- **ExpresSeekers** – RNA-seq clustering & analysis  
+- **Drug Design Dynamics** – Protein–ligand interaction prediction using Metropolis simulations + ML models (Go, Python, R Shiny)
+- **ExpresSeekers** – RNA-seq analysis pipeline for clustering and differential expression across large-scale cancer datasets
 
 ---
 
