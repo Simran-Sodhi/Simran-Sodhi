@@ -1,8 +1,7 @@
 ## Simran Sodhi
 
-MS @ Carnegie Mellon University (Automated Science)  
-ML for Computational Biology | Protein Modeling | RNA-seq  
-ex-Amazon SDE  
+I work at the intersection of machine learning and computational biology, building models and pipelines for protein modeling and single-cell analysis.
+Currently pursuing an MS in Automated Science at Carnegie Mellon University. Previously, worked as a Software Development Engineer at Amazon.
 
 ---
 
