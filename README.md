@@ -6,8 +6,9 @@ Currently pursuing an MS in Automated Science at Carnegie Mellon University. Pre
 ---
 
 ### Featured Projects
-- **Drug Design Dynamics** – molecular simulation & analysis pipeline  
-- **Puncta CSAT Pipeline** – microscopy segmentation & quantification  
+- **Puncta CSAT Pipeline** – Microscopy segmentation & quantification
+- **ASR Project 2025** – Active learning framework for improving cell segmentation in microscopy  
+- **Drug Design Dynamics** – Molecular simulation & analysis pipeline  
 - **ExpresSeekers** – RNA-seq clustering & analysis  
 
 ---
