@@ -1,16 +1,29 @@
-## Hi there 👋
+## Simran Sodhi
 
-<!--
-**Simran-Sodhi/Simran-Sodhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+MS @ Carnegie Mellon University (Automated Science)  
+ML for Computational Biology | Protein Modeling | RNA-seq  
+ex-Amazon SDE  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Featured Projects
+- **Drug Design Dynamics** – molecular simulation & analysis pipeline  
+- **Puncta CSAT Pipeline** – microscopy segmentation & quantification  
+- **ExpresSeekers** – RNA-seq clustering & analysis  
+
+---
+
+### Current Work
+- Protein variant effect prediction (ESM-2)  
+- Hybrid Transformer + State Space models  
+
+---
+
+### Tech
+Python · PyTorch · Scanpy · AWS · Java · Go  
+
+---
+
+### Links
+- Portfolio: https://simran-sodhi.github.io  
+- LinkedIn: https://linkedin.com/in/simran-sodhi-profile  
